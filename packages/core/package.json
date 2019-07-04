@@ -1,0 +1,9 @@
+{
+  "name": "@babou/core",
+  "version": "0.0.1",
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "dependencies": {
+    "@babou/utils": "0.0.1"
+  }
+}
