@@ -2,3 +2,5 @@
 node_modules
 # IDE
 .idea
+# build system
+dist
